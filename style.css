@@ -1,0 +1,14 @@
+.header {
+  border: solid blue;
+  margin-bottom: 2px;
+}
+
+.classTwo {
+  border: solid blue;
+  padding: 10px;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
