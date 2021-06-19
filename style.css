@@ -3,12 +3,25 @@
   margin-bottom: 2px;
 }
 
-.classTwo {
+.boxOne {
   border: solid blue;
   padding: 10px;
+  display: flex;
 }
 
 h1 {
   color: blue;
   text-align: center;
+}
+
+.paragraphOne {
+  padding: 10px;
+  border: solid brown;
+  margin-right: 5px;
+}
+
+.paragraphTwo {
+  padding: 10px;
+  border: 5px solid red;
+  border-radius: 10px;
 }
